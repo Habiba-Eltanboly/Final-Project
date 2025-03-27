@@ -1,0 +1,12 @@
+# Data Analysis Questions:
+
+1-what is the total sales in the store?                               Sales Performance Analysis
+2-which region has the highest sales?                                 Regional & Market Analysis
+3-which city has the highest number of orders?                        Regional & Market Analysis
+4-which category has the highest sales?                               Sales Performance Analysis
+5-what are the top Selling products?                                  Product & Inventory Analysis
+6-which customer segment has the highest sales?                       Customer Behavior & Segmentation
+7-which shipping mode is most commonly used?                          Shipping & Logistics Analysis
+8-what is the average time between order date and ship date?          Shipping & Logistics Analysis
+9-are there delays in time (order to ship) in certain regions?        Shipping & Logistics Analysis
+10-how does shipping mode affect delivery time?                       Shipping & Logistics Analysis
